@@ -1,0 +1,17 @@
+body {
+    height: 100%;
+}
+
+#dataDisplay {
+    background: aliceblue;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+#patient {
+    font-size: large;
+}
+
+#logo {
+    top: -30%;
+}
